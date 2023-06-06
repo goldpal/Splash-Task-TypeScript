@@ -6,7 +6,7 @@ This is a guessing game based on random numbers and will progress through a seri
 
 ## Demo
 
-![Guess The Number](https://github.com/goldpal/Splash-Task-TypeScript)
+![Guess The Number](https://github.com/goldpal/Splash-Task-TypeScript/blob/main/demo.jpg?raw=true)
 
 ### Built With
 
